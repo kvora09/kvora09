@@ -10,6 +10,10 @@ Data Analyst | Machine Learning Enthusiast  <br>Experience in building predictiv
 # 📊 GitHub Stats:
 ![Khushi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kvora09&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kvora09&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kvora09&theme=radical)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
