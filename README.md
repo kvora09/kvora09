@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst | Machine Learning Enthusiast  <br>Experience in building predictive models and analytical solutions  <br>Exploring AI, business analytics, and real-world data problems
+Senior Software Developer-AI | Data Science Enthusiast  <br>Experience in building predictive models and analytical solutions  <br>Exploring AI, business analytics, and real-world data problems
 
 
 ## 🌐 Socials:
